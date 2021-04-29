@@ -1,4 +1,12 @@
 # Installation
+
+### All these Below Steps are give in the shell script file in the django folder.
+### To run
+    sh django_install.sh
+do this in the django folder
+
+#
+
 ### Checking for python3 in your device
     python3 -V
 

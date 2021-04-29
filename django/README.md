@@ -1,9 +1,15 @@
-
 # Installation
-### Checking for python3 in your device
-    user -> python3 -V
 
-    Python 3.9
+### All these Below Steps are give in the shell script file in the django folder.
+### To run
+    sh django_install.sh
+do this in the django folder
+
+#
+
+### Checking for python3 in your device
+    python3 -V
+
 python 3.9 or higher is recomended
 
 <br>
@@ -19,9 +25,8 @@ installs latest version of python
 #
 
 ### Checking for pip3 in your device
-    user -> pip3 -V
+    pip3 -V
 
-    pip 21.0.1 from /usr/lib/python3/dist-packages    (python 3.9)
 pip3 version 21 or higher is recomended
 
 <br>
