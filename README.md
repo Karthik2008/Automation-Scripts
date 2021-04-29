@@ -2,7 +2,6 @@
 ### Checking for python3 in your device
     python3 -V
 
-    Python 3.9
 python 3.9 or higher is recomended
 
 <br>
@@ -20,7 +19,6 @@ installs latest version of python
 ### Checking for pip3 in your device
     pip3 -V
 
-    pip 21.0.1 from /usr/lib/python3/dist-packages (python 3.9)
 pip3 version 21 or higher is recomended
 
 <br>
